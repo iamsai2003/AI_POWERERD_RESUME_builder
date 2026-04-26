@@ -6,7 +6,7 @@ An AI-powered web application that helps you create professional, ATS-optimized 
 
 - **🤖 AI-Powered Content** — Generate summaries, enhance bullet points, and get skill suggestions
 - **🎯 ATS Optimization** — Real-time ATS scoring and improvement suggestions
-- **🎨 6 Premium Templates** — Minimal, Modern, Professional, Creative, Developer, ATS-Optimized
+- **🎨 16 Premium Templates** — Minimal, Modern, Professional, Creative, Developer, ATS-Optimized
 - **📄 PDF Export** — Download your resume as a perfectly formatted PDF
 - **💾 Auto-Save** — Progress automatically saved to localStorage
 - **✨ Smart Enhancement** — AI transforms responsibilities into achievement-based statements
